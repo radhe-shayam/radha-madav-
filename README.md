@@ -1,2 +1,4 @@
 # radha-madav-
-This is my first git repository
+This is my first git repository.
+Hare Krishna Hare Krishna Krishna Krishna Hare Hare
+Hare Rama Hare Rama Rama Rama Hare Hare
